@@ -1,0 +1,22 @@
+/* Universal Styles */
+body {
+    background-color: black;
+}
+
+header h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50; 
+    color: white;
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
