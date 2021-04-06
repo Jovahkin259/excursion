@@ -15,9 +15,6 @@ header h1 {
 
 }
 
-/* Main Styles */
-
-
 /* Supporting Styles */
 .support h1 {
     font-weight: 300;
@@ -25,6 +22,12 @@ header h1 {
 }
 .support p {
     font-size: 21px;
+    color: gray;
+}
+
+/* Footer Styles */
+footer p {
+    text-align: right;
     color: gray;
 }
 
