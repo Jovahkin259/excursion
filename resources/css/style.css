@@ -1,18 +1,31 @@
 /* Universal Styles */
 body {
     background-color: black;
+    font-family: Verdana;
+    text-align: center;
+    color: white;
 }
 
+/* Header Styles */
 header h1 {
-    font-family: Verdana;
+    
     font-weight: normal;
     font-size: 50; 
     color: white;
-    text-align: center;
+
 }
 
-main p {
-    text-align: center;
+/* Main Styles */
+
+
+/* Supporting Styles */
+.support h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+.support p {
+    font-size: 21px;
+    color: gray;
 }
 
 .download-link {
